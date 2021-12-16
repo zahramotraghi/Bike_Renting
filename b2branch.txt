@@ -1,5 +1,0 @@
-branch b2
-
-edit b2
-
-ignore

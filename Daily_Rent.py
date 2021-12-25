@@ -26,7 +26,7 @@ class Ui_Daily_Rent(object):
         self.label_2 = QtWidgets.QLabel(self.frame)
         self.label_2.setGeometry(QtCore.QRect(170, 0, 221, 181))
         self.label_2.setText("")
-        self.label_2.setPixmap(QtGui.QPixmap("images/rental22).png"))
+        self.label_2.setPixmap(QtGui.QPixmap("rental22).png"))
         self.label_2.setObjectName("label_2")
         self.radioButton_1 = QtWidgets.QRadioButton(self.frame)
         self.radioButton_1.setGeometry(QtCore.QRect(30, 230, 161, 17))
